@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+- 🌱 I’m currently learning ...
 <!--
 **Nuage2/Nuage2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
